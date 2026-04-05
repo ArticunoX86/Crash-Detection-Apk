@@ -18,6 +18,7 @@ Framework: Android SDK
 Build Tool: Gradle (KTS)
 IDE: Android Studio
 Sensors Used: Accelerometer, GPS
+
 📂 Project Structure
 CrashDetectionApk/
 │── app/                  # Main application source code
@@ -25,6 +26,8 @@ CrashDetectionApk/
 │── build.gradle.kts      # Project build configuration
 │── settings.gradle.kts   # Project settings
 │── gradlew               # Gradle wrapper
+
+
 ⚙️ Installation & Setup
 🔽 Step 1: Clone the Repository
 git clone https://github.com/your-username/crash-detection-app.git
